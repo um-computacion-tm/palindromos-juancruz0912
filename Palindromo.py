@@ -7,8 +7,6 @@ import unittest
          if string[i] != " ":
              nuevo_string += string[i]
      return nuevo_string
-python3 -V
-# Output: Python 3.10.12
 
 def palindromo(string):
      string = juntar(string)
